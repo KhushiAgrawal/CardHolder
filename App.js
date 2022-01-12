@@ -11,14 +11,14 @@ const App: React.FC = () => {
 };
 const styles = StyleSheet.create({
   content: {
-    paddingTop: 96,
-    paddingHorizontal: 36,
+    paddingTop: 95,
+    paddingHorizontal: 37,
   },
   title: {
     fontFamily: 'Avenir-Heavy',
     color: 'black',
-    fontSize: 32,
-    marginBottom: 32,
+    fontSize: 31,
+    marginBottom: 31,
   },
 });
 export default App;
