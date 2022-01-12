@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { StyleSheet, Text, ScrollView } from 'react-native';
-import CreditCardForm from './components/creditCardForm';
+import CreditCardForm from './creditCardForm';
 const App: React.FC = () => {
   return (
     <ScrollView contentContainerStyle={styles.content}>
